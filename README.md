@@ -1,7 +1,7 @@
 # WhirlPool Actor System
 
 WhirlPool is a performance-focused lite-actor system implemented in Zig. It provides a threading model designed to optimize cache efficiency while offering basic isolation between concurrent workloads.
-It is currently in very early stages.
+It is currently in very early stages. Targetting 0.14.0 of Zig
 
 ## Project Status
 
